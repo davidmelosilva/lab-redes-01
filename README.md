@@ -49,7 +49,7 @@ router --> |LAN 3| PC3
 router --> |LAN 4| PC4
 ```
 imagem da topologia usada neste laboratório:
-![topologia](). (topologia>png).
+![topologia](topologia>png)
 
 ---
 ## 4. plano de endereçamento ip
